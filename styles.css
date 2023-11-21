@@ -1,2 +1,13 @@
+.movie pic {
+    diaplay: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-/* Your CSS Code here. */
+.movieDetail {
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    text-align: center;
+    font-size: translate(-50%, -50%);
+}
